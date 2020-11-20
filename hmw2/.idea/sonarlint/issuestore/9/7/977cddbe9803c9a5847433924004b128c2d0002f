@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤¢à¬8óÃ˜µŞ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èœ©²
+o
+java:S1104"RMake klavye a static final constant or non-public and provide accessors if needed.(Œüãø8Ï´ÕµŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›‡åıÿÿÿÿ8óÃ˜µŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°Æ‡ûÿÿÿÿ8¬ÃãµŞ.
+N
+java:S2387"1"klavye" is the name of a field in "CepTelefonu".(Œüãø8Ö¸Ô¶Ş.
